@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-danutdruta)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-danutdruta&theme=radical)
 <!--
 **git-danutdruta/git-danutdruta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
