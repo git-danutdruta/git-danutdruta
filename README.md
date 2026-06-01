@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm a Java Developer, joke teller, retired bodybuilder but most important, retired coffee drinker.
+
+Also, they once saw me killing 3 "bugs" with a semicolon. A f**king semicolon.
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-danutdruta&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-danutdruta&theme=radical)
